@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../cucumber/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../cucumber/src/main/java/pl/fru/cukes/services/neo4j/Connection.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../cucumber/src/main/java/pl/fru/cukes/services/neo4j/Neo4jService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../cucumber/src/main/java/pl/fru/cukes/services/neo4j/Waiting.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../cucumber/src/main/java/pl/fru/cukes/services/rabbit/event/cheapestconnection/CheapestConnection.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../cucumber/src/main/java/pl/fru/cukes/steps/FlightMapSteps.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../cucumber/src/main/java/pl/fru/cukes/steps/FlightStorageSteps.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../cucumber/src/main/java/pl/fru/cukes/steps/Neo4jSteps.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../cucumber/src/main/java/pl/fru/cukes/steps/RabbitMqSteps.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../cucumber/src/main/java/pl/fru/cukes/steps/events/cheapest/CheapestEventSteps.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../cucumber/src/test/resources/features/flightmap/neo4jhubcities/AvailableLayovers.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../flightmap/flightmap-core/src/main/resources/bootstrap.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../flightmap/flightmap-layovers/src/main/java/pl/fru/flightmap/layovers/external/neo4j/repository/Neo4UpdateConnectionException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../flightmap/flightmap-layovers/src/main/java/pl/fru/flightmap/layovers/external/neo4j/repository/Neo4jLayoverException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../flightmap/flightmap-layovers/src/main/java/pl/fru/flightmap/layovers/external/neo4j/repository/Neo4jRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
